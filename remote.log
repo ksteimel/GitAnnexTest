@@ -1,3 +1,4 @@
 372af029-a83d-405a-9c3d-4f1956e428eb encryption=none name=dummy_rsync rsyncurl=wabuntu:/home/kenneth/data/ type=rsync timestamp=1556040263.787812116s
+78774864-3c11-459c-8fca-39310804f280 encryption=none name=myrsync rsyncurl=wabuntu:/home/kenneth/data type=rsync timestamp=1556041077.217603634s
 c0b234a6-3662-429f-a717-a297a6a7b32b encryption=none name=temprsync rsyncurl=wabuntu:/home/kenneth/data type=rsync timestamp=1555968769.719857721s
 c381c9f7-7ee6-40ae-994a-4837d378f93b encryption=none name=rsync2 rsyncurl=wabuntu:/home/kenneth/data/ type=rsync timestamp=1556040369.451294574s
