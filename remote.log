@@ -1,1 +1,2 @@
+372af029-a83d-405a-9c3d-4f1956e428eb encryption=none name=dummy_rsync rsyncurl=wabuntu:/home/kenneth/data/ type=rsync timestamp=1556040263.787812116s
 c0b234a6-3662-429f-a717-a297a6a7b32b encryption=none name=temprsync rsyncurl=wabuntu:/home/kenneth/data type=rsync timestamp=1555968769.719857721s
